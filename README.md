@@ -13,10 +13,26 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+   I tried installing the windows 11 on my computer but I have the windows 10 and 
+am afraid if I download the windows 10 I will lose my files without back them up, hence I did not 
+download it.
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   On Assignment 2, having already installed visual studio code during the cause of the 
+class I did not delete it to redownload, but though I visited the download page
+as given in the assignment.
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+   Version control system set up was done during the class session, as I was able
+to create an account on https://github.com, and then also I learnt how to 
+create a repository, did the assignment 2 that was given, by first forking it
+and then going through the process of changing directory cd and making directory
+ with the assignment, and after which cloning it in the git bash before sending 
+it to the dedicated IDE vs code.
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
@@ -26,6 +42,8 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+   In the installation of MySQL, by visiting the dedicated website, the directive and instructions were followed as given, and then a password was created, to show that you alone or anyone that you have customed to it can use. Also a workbench was downloaded this is also associated to MySQL.
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
